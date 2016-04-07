@@ -1,0 +1,18 @@
+#    Time (s)           Filesize (MB)                 Filename   
+
+     0.040030         0.58889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--0.dat 
+     0.085180         1.28889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--1.dat 
+     0.117501         1.98889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--2.dat 
+     0.169925         2.68889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--3.dat 
+     0.203811         3.38889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--4.dat 
+     0.261479         4.08889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--5.dat 
+     0.291200         4.78889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--6.dat 
+     0.335961         5.48889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--7.dat 
+     0.398731         6.18889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--8.dat 
+     0.438983         6.88889             /Users/Raymond/PycharmProjects/Rosalind/ceph-data/ceph--9.dat 
+
+
+======================================== Total ========================================
+
+#    Spend 2.343467 seconds to write 10 files into /Users/Raymond/PycharmProjects/Rosalind/ceph-data 
+#    Spend 2.342801 seconds to write 37.3889 MB data size in /Users/Raymond/PycharmProjects/Rosalind/ceph-data dir, And Average Time 0.234280 spent each file 
